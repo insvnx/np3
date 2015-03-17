@@ -1,0 +1,9 @@
+
+ np3 by INSVNX
+
+ requires hexchat / python3 / vlc
+   add http iface in vlc
+   modify 'password' field
+
+ /np3 - spams chan with current song
+
